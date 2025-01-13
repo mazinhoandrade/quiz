@@ -32,7 +32,6 @@ export default function Home() {
     setAnswers([]);
   }
 
-  console.log(question)
 
   return (
     <div className='w-full h-screen flex justify-center items-center bg-blue-600'>
